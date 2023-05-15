@@ -13,4 +13,4 @@ Lower the Rt the better our lockdowns have worked in our favour. We currently ne
 
 This solution is inspired by the [article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0002185) created by Bettencourt & Riberio 2008 to estimate real time Rt using Bayesian approach. 
 Every day, we learn how many more people have COVID-19. This new case count gives us a clue about the current value of Rt. We also, figure that the value of Rt today is related to the value of (yesterday's value) and every previous value of for that matter.
-My work is mostly similar to the work done by Kevin Systrom and Mike Krieger for the US country. [Link](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb) 
+My work is similar to the work done by Kevin Systrom and Mike Krieger for the US country. [Link](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb) 
